@@ -194,7 +194,7 @@ The server keeps its state in a `res/` folder in the project root. Delete it to 
 ## Project structure
 
 ```text
-WORTH-as-WORkTogetHer/
+WORTH-Real-Time-Kanban-in-Java/
 ├── RELAZIONE.pdf            # 12-page technical report (Italian)
 ├── lib/                     # Jackson 2.9.7 (core, databind, annotations)
 └── src/
@@ -234,6 +234,6 @@ WORTH-as-WORkTogetHer/
 
 <div align="center">
 
-Made by **Giuseppe Muschetta** · [GitHub](https://github.com/peppe212) · [LinkedIn](https://www.linkedin.com/in/giuseppemuschetta/)
+Made by **Giuseppe Muschetta** · [GitHub](https://github.com/giuseppemuschetta) · [LinkedIn](https://www.linkedin.com/in/giuseppemuschetta/)
 
 </div>
