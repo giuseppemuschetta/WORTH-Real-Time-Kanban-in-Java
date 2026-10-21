@@ -5,7 +5,7 @@ import java.security.SecureRandom;
 import java.util.Base64;
 
 /**
- * @author Giuseppe Muschetta 564026 corso A
+ * @author Giuseppe Muschetta
  */
 public class HashPassword {
 

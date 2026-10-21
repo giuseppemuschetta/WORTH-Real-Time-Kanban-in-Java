@@ -2,7 +2,7 @@ import java.rmi.Remote;
 import java.rmi.RemoteException;
 
 /**
- * @author Giuseppe Muschetta 564026 corso A
+ * @author Giuseppe Muschetta
  */
 public interface ServerInterface extends Remote {
 

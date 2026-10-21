@@ -8,7 +8,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 
 /**
- * @author Giuseppe Muschetta 564026 corso A
+ * @author Giuseppe Muschetta
  */
 public class User implements Serializable {
     private static final long serialVersionUID = -6124934665897979046L;

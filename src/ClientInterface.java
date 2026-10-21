@@ -3,7 +3,7 @@ import java.rmi.RemoteException;
 import java.util.ArrayList;
 
 /**
- * @author Giuseppe Muschetta 564026 corso A
+ * @author Giuseppe Muschetta
  */
 public interface ClientInterface extends Remote {
 

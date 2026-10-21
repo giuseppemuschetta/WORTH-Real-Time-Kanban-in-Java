@@ -25,7 +25,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * @author Giuseppe Muschetta 564026 corso A
+ * @author Giuseppe Muschetta
  */
 public class ServerCore extends RemoteObject implements ServerInterface {
 

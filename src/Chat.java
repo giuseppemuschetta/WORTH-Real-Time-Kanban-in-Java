@@ -3,7 +3,7 @@ import java.net.InetAddress;
 import java.util.ArrayList;
 
 /**
- * @author Giuseppe Muschetta 564026 corso A
+ * @author Giuseppe Muschetta
  */
 public class Chat implements Serializable {
 

@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.TreeSet;
 
 /**
- * @author Giuseppe Muschetta 564026 corso A
+ * @author Giuseppe Muschetta
  */
 
 public class WorthCore implements WorthInterface{

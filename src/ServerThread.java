@@ -9,7 +9,7 @@ import java.net.Socket;
 import java.text.SimpleDateFormat;
 
 /**
- * @author Giuseppe Muschetta 564026 corso A
+ * @author Giuseppe Muschetta
  */
 public class ServerThread implements Runnable {
 

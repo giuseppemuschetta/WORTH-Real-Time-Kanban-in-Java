@@ -1,7 +1,7 @@
 import java.io.Serializable;
 
 /**
- * @author Giuseppe Muschetta 564026 corso A
+ * @author Giuseppe Muschetta
  */
 public class Card implements Serializable {
 
