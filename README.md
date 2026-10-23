@@ -1,7 +1,7 @@
 **Author:** Giuseppe Muschetta  
 **University:** University of Pisa  
 **Degree:** B.Sc. in Computer Science  
-**Course:** Computer Networks Laboratory (Laboratorio di Reti)  
+**Course:** Network Programming (Laboratorio di Reti)  
 **Academic year:** 2020–2021
 
 ---
@@ -21,7 +21,7 @@
 
 **3,600+ lines of Java · 19 classes · 4 communication mechanisms · zero frameworks**
 
-[Read the technical report (Italian)](RELAZIONE.pdf) · [Architecture](#architecture) · [Get it running](#getting-started)
+[Read the technical report](REPORT.pdf) · [Italian version](RELAZIONE.pdf) · [Architecture](#architecture) · [Get it running](#getting-started)
 
 </div>
 
@@ -196,6 +196,7 @@ The server keeps its state in a `res/` folder in the project root. Delete it to 
 ```text
 WORTH-Real-Time-Kanban-in-Java/
 ├── RELAZIONE.pdf            # 12-page technical report (Italian)
+├── REPORT.pdf              # 12-page technical report (English)
 ├── lib/                     # Jackson 2.9.7 (core, databind, annotations)
 └── src/
     ├── ServerMain.java      # Server entry point (TCP 45678, RMI 56789)
@@ -228,7 +229,9 @@ WORTH-Real-Time-Kanban-in-Java/
 
 ## Technical report
 
-[`RELAZIONE.pdf`](RELAZIONE.pdf) is the full 12-page report written for the exam, in Italian. It covers every design decision, class responsibility, thread and data structure, and the build instructions.
+[`REPORT.pdf`](REPORT.pdf) is the full 12-page technical report, in English. It describes the architecture, the TCP protocol, the RMI callbacks, the multicast chats, the server and the client, the Kanban rules and the password hashing, and closes with a scripted session that exercises every request, the callbacks, the chat, persistence across a restart and an abrupt disconnection.
+
+[`RELAZIONE.pdf`](RELAZIONE.pdf) is the original 12-page report written for the exam, in Italian.
 
 ---
 
