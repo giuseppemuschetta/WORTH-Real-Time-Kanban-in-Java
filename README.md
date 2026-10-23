@@ -1,8 +1,7 @@
 **Author:** Giuseppe Muschetta  
 **University:** University of Pisa  
 **Degree:** B.Sc. in Computer Science  
-**Course:** Network Programming (Laboratorio di Reti)  
-**Academic year:** 2020–2021
+**Course:** Network Programming (Laboratorio di Reti)
 
 ---
 
